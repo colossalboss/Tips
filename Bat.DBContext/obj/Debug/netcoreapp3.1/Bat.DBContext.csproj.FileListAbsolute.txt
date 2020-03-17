@@ -1,0 +1,13 @@
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/obj/Debug/netcoreapp3.1/Bat.DBContext.csprojAssemblyReference.cache
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/obj/Debug/netcoreapp3.1/Bat.DBContext.AssemblyInfoInputs.cache
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/obj/Debug/netcoreapp3.1/Bat.DBContext.AssemblyInfo.cs
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/bin/Debug/netcoreapp3.1/Bat.DBContext.deps.json
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/bin/Debug/netcoreapp3.1/Bat.DBContext.runtimeconfig.json
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/bin/Debug/netcoreapp3.1/Bat.DBContext.runtimeconfig.dev.json
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/bin/Debug/netcoreapp3.1/Bat.DBContext.dll
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/bin/Debug/netcoreapp3.1/Bat.DBContext.pdb
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/bin/Debug/netcoreapp3.1/Bat.Entities.dll
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/bin/Debug/netcoreapp3.1/Bat.Entities.pdb
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/obj/Debug/netcoreapp3.1/Bat.DBContext.csproj.CopyComplete
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/obj/Debug/netcoreapp3.1/Bat.DBContext.dll
+/Users/ogbaragodwin/Projects/BAT/Bat.DBContext/obj/Debug/netcoreapp3.1/Bat.DBContext.pdb

@@ -1,0 +1,8 @@
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/obj/Debug/netcoreapp3.1/Bat.Entities.csprojAssemblyReference.cache
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/obj/Debug/netcoreapp3.1/Bat.Entities.AssemblyInfoInputs.cache
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/obj/Debug/netcoreapp3.1/Bat.Entities.AssemblyInfo.cs
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/bin/Debug/netcoreapp3.1/Bat.Entities.deps.json
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/bin/Debug/netcoreapp3.1/Bat.Entities.dll
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/bin/Debug/netcoreapp3.1/Bat.Entities.pdb
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/obj/Debug/netcoreapp3.1/Bat.Entities.dll
+/Users/ogbaragodwin/Projects/BAT/Bat.Entities/obj/Debug/netcoreapp3.1/Bat.Entities.pdb

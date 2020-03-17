@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{BE87945A-905E-4A37-8290-2425278F79B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.BatWithAsp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BatWithAsp/BatWithAsp.csproj">
+    <Files>
+      <File FileName="Bat.DBContext/AppDbContext.cs" Line="19" Column="1" />
+      <File FileName="Bat.Entities/AppUser.cs" Line="10" Column="10" />
+      <File FileName="BatWithAsp/Startup.cs" Line="35" Column="1" />
+      <File FileName="BatWithAsp/BatWithAsp.csproj" Line="21" Column="40" />
+      <File FileName="Bat.DBContext/Bat.DBContext.csproj" Line="22" Column="1" />
+      <File FileName="Bat.Entities/Post.cs" Line="18" Column="16" />
+      <File FileName="Bat.Entities/Comment.cs" Line="1" Column="1" />
+      <File FileName="Bat.Entities/Bat.Entities.csproj" Line="8" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BAT" expanded="True">
+            <Node name="Bat.DBContext" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Bat.Entities" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="BatWithAsp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

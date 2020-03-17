@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatWithAsp", "BatWithAsp\BatWithAsp.csproj", "{BE87945A-905E-4A37-8290-2425278F79B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bat.DBContext", "Bat.DBContext\Bat.DBContext.csproj", "{BBBC7D84-7322-449F-83DA-73B4AAAAE659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bat.Entities", "Bat.Entities\Bat.Entities.csproj", "{24E33B80-3001-4546-956F-87E9E77F0FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE87945A-905E-4A37-8290-2425278F79B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE87945A-905E-4A37-8290-2425278F79B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE87945A-905E-4A37-8290-2425278F79B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE87945A-905E-4A37-8290-2425278F79B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBC7D84-7322-449F-83DA-73B4AAAAE659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBC7D84-7322-449F-83DA-73B4AAAAE659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBC7D84-7322-449F-83DA-73B4AAAAE659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBC7D84-7322-449F-83DA-73B4AAAAE659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E33B80-3001-4546-956F-87E9E77F0FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E33B80-3001-4546-956F-87E9E77F0FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E33B80-3001-4546-956F-87E9E77F0FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E33B80-3001-4546-956F-87E9E77F0FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
